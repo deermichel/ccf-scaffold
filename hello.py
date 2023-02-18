@@ -1,7 +1,7 @@
 def add(x, y):
     return x + y
 
-var=
+
 def main():
     x = 1
     y = 2
